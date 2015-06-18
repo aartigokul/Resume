@@ -1,0 +1,14 @@
+#intro
+{
+background-image:url("Quadcopter.jpg");
+height:600px;
+background-size: cover;
+margin=20px;
+}
+#intro-box
+{
+padding-top: 100px;
+text-align: center;
+font-size: 20px;
+color:blues;
+}
